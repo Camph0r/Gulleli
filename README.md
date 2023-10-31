@@ -1,6 +1,7 @@
 ## Gulleli
-![image](https://github.com/Camph0r/gulleli/assets/85937308/e8be9d9e-a307-4cd3-98f0-945725836854)
 
+
+<img src="https://github.com/Camph0r/gulleli/assets/85937308/e8be9d9e-a307-4cd3-98f0-945725836854" alt="drawing" width="200" height="200"/>
 
 This project is a simple bird-aiming game created using C++ and SFML. It's a fun project developed as part of Object-Oriented Programming course.
 
@@ -19,7 +20,6 @@ Bird Aiming Game is a classic shooting game where the player takes on the role o
 
 To run this game on your windows machine, follow these steps:
 
-1. Clone this repository to your computer:
 
    ```bash
    git clone https://github.com/your-username/bird-aiming-game.git
@@ -28,4 +28,9 @@ To run this game on your windows machine, follow these steps:
 
    .\run.ps1
 
-   
+   ```
+### Contributers
+```
+Adhyadesh Dahal (078BCT007)
+Arbashu Dhakal (078BCT018)
+```
