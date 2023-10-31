@@ -1,7 +1,7 @@
 ## Gulleli
 
 
-<img src="https://github.com/Camph0r/gulleli/assets/85937308/e8be9d9e-a307-4cd3-98f0-945725836854" alt="drawing" width="200" height="200"/>
+<img src="https://github.com/Camph0r/gulleli/assets/85937308/e8be9d9e-a307-4cd3-98f0-945725836854" alt="drawing" width="800" height="800"/>
 
 This project is a simple bird-aiming game created using C++ and SFML. It's a fun project developed as part of Object-Oriented Programming course.
 
